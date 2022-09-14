@@ -5,7 +5,7 @@
 - [x] Variables
 - [x] Primitive Data Types
 - [x] Type Casting
-- [ ] Operators
+- [x] Operators
 - [ ] Strings
 - [ ] Math
 
