@@ -6,8 +6,8 @@
 - [x] Primitive Data Types
 - [x] Type Casting
 - [x] Operators
-- [ ] Strings
-- [ ] Math
+- [x] Strings
+- [x] Math
 
 
 
