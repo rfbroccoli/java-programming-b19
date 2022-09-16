@@ -17,5 +17,5 @@
 
 | commands | example           | descriptions                                      |
 | -------- | ----------------- | ------------------------------------------------- |
-| `javac`  | `javac Main.java` | to compile a java file using**java** **c**ompiler |
+| `javac`  | `javac Main.java` | to compile a java file using **java** **c**ompiler |
 | `java`   | `java Main`       | to run a compiled java class file                 |

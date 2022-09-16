@@ -1,11 +1,11 @@
 # Topics Covered
 
-- Comparison Operators
-- Logical Operators
+- Conditional 
 
 # URL
 
-- [Operators](https://www.w3schools.com/java/java_operators.asp)
+- [Conditional](https://www.w3schools.com/java/java_conditions.asp)
+
 
 # Commands In Terminal
 

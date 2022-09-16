@@ -8,6 +8,10 @@
 - [x] Operators
 - [x] Strings
 - [x] Math
+- [x] Conditional
+
+# Projects
+- [x] BMI Calculator
 
 
 
