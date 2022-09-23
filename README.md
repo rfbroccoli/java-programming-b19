@@ -10,10 +10,14 @@
 - [x] Math
 - [x] Conditional
 - [x] Switch
+- [x] Arrays
+- [x] While
+- [x] For
 
 # Projects
 - [x] BMI Calculator
 - [x] Is There A Class Today 
+- [x] Find The Largest Number 
 
 
 
