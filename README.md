@@ -9,9 +9,11 @@
 - [x] Strings
 - [x] Math
 - [x] Conditional
+- [x] Switch
 
 # Projects
 - [x] BMI Calculator
+- [x] Is There A Class Today 
 
 
 
