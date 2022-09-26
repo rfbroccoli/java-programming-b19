@@ -13,11 +13,13 @@
 - [x] Arrays
 - [x] While
 - [x] For
+- [x] Break / Continue 
 
 # Projects
 - [x] BMI Calculator
 - [x] Is There A Class Today 
 - [x] Find The Largest Number 
+- [x] Euclid Algorithm 
 
 
 
