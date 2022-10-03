@@ -14,12 +14,16 @@
 - [x] While
 - [x] For
 - [x] Break / Continue 
+- [x] Functions (Methods)
+- [x] Scope
+- [x] Recursion
 
 # Projects
 - [x] BMI Calculator
 - [x] Is There A Class Today 
 - [x] Find The Largest Number 
 - [x] Euclid Algorithm 
+- [x] Fibonacci
 
 
 
