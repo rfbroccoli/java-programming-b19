@@ -1,6 +1,6 @@
 # Topics Covered
 - Break / Continue 
-- Euclide Algorithm
+- Euclid Algorithm
 
 # URL
 
