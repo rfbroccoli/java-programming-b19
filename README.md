@@ -25,7 +25,7 @@
 - [x] Euclid Algorithm 
 - [x] Fibonacci
 - [ ] Gauss : One to Hundred
-- [x] Head Or Tails
+- [x] Head Or Tail
 - [ ] Rock Paper Scissors
 - [ ] Guess The Number
 - [ ] Hangman
