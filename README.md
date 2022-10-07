@@ -24,8 +24,8 @@
 - [x] Find The Largest Number 
 - [x] Euclid Algorithm 
 - [x] Fibonacci
-- [ ] One to Hundred
-- [ ] Head Or Tails
+- [ ] Gauss : One to Hundred
+- [x] Head Or Tails
 - [ ] Rock Paper Scissors
 - [ ] Guess The Number
 - [ ] Hangman
