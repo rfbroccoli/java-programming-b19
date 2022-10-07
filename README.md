@@ -24,6 +24,13 @@
 - [x] Find The Largest Number 
 - [x] Euclid Algorithm 
 - [x] Fibonacci
-
-
-
+- [ ] One to Hundred
+- [ ] Head Or Tails
+- [ ] Rock Paper Scissors
+- [ ] Guess The Number
+- [ ] Hangman
+- [ ] Password Generator
+- [ ] Madlibs
+- [ ] Quiz
+- [ ] Blackjack
+- [ ] Choose Your Own Adventure
