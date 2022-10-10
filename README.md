@@ -27,7 +27,7 @@
 - [ ] Gauss : One to Hundred
 - [x] Head Or Tail
 - [ ] Rock Paper Scissors
-- [ ] Guess The Number
+- [x] Guess The Number
 - [ ] Hangman
 - [ ] Password Generator
 - [ ] Madlibs
