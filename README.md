@@ -25,9 +25,9 @@
 - [x] [Find The Largest Number](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture09/find-largest/Main.java)
 - [x] [Euclid Algorithm](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture10/euclid/Main.java) 
 - [x] [Fibonacci](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture12/fibonacci/Main.java)
-- [ ] Gauss : One to Hundred
+- [x] [Gauss : One to Hundred]()
 - [x] [Head Or Tail](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture13/head-or-tail/Main.java)
-- [ ] Rock Paper Scissors
+- [x] [Rock Paper Scissors](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture15/rock-paper-scissors/Main.java)
 - [x] [Guess The Number](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture14/guess-the-number/Main.java)
 - [ ] Hangman
 - [ ] Password Generator
