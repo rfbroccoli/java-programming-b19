@@ -70,8 +70,10 @@ public class Main {
                 || userMove == SCISSORS && computerMove == PAPER) {
             // if (A OR B OR C) { do something }
             System.out.println("You won!");
+        } else {
+            // TODO add another conditional code block to print "You lost!"
+            System.out.println("You lost!");
         }
 
-        // TODO add another conditional code block to print "You lost!"
     }
 }
