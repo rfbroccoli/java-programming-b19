@@ -18,6 +18,14 @@
 - [x] [Standard Input](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture10/input/Main.java)
 - [x] [Scope](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture12/scope/Main.java)
 - [x] [Recursion](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture12/recursive-fibonacci/Main.java)
+- [x] [CRUD]()
+- [x] [Class]()
+- [x] [Constructor]()
+- [x] [Encapsulation]()
+- [x] [Inheritance]()
+- [x] [Abstraction]()
+- [x] [Polymorphism]()
+
 
 # Projects
 - [x] [BMI Calculator](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture07/bmi_calculator/Main.java)
