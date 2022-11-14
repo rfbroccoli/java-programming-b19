@@ -18,7 +18,8 @@ public class WordBank {
     }
 
     public WordBank() {
-        String fileName = "/home/pwhb/teaching/rf/java-programming-b19/lecture22/hangman/words.txt";
+        // String fileName = "C:/Users/pwhbd/OneDrive/Desktop/java-programming-b19/lecture22/hangman";
+        String fileName = "C:/Users/pwhbd/OneDrive/Desktop/java-programming-b19/lecture22/hangman/words.txt";
         Path path = Paths.get(fileName);
         Scanner scanner;
         try {

@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 public class Game {
+    boolean isTesting;
     WordBank wordBank;
     String word;
     ArrayList<String> answerArray;
@@ -8,8 +9,9 @@ public class Game {
     int lives;
     boolean isWon;
 
-    public Game() {
+    public Game(boolean isTesting) {
         this.ui = new UI();
+        this.isTesting = isTesting;
         this.wordBank = new WordBank();
         word = wordBank.getOneRandomWord();
         lives = 6;
@@ -39,7 +41,9 @@ public class Game {
 
     void start() {
         this.ui.welcome();
-        System.out.println(word);
+        if (isTesting) {
+            System.out.println(word);
+        }
 
         while (!isGameOver()) {
             this.ui.printState(lives, answerArray);

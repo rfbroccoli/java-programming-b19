@@ -3,7 +3,11 @@ import java.util.Scanner;
 
 public class UI {
 
-    Scanner scanner;
+    private Scanner scanner;
+
+    public void closeScanner() {
+        this.scanner.close();
+    }
 
     public UI() {
         this.scanner = new Scanner(System.in);
@@ -85,7 +89,7 @@ public class UI {
                           +---+
                           |   |
                           O   |
-                         /|\\  |
+                         /|\\  | 
                               |
                               |
                         =========
