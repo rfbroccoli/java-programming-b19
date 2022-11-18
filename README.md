@@ -37,8 +37,8 @@
 - [x] [Head Or Tail](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture13/head-or-tail/Main.java)
 - [x] [Rock Paper Scissors](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture15/rock-paper-scissors/Main.java)
 - [x] [Guess The Number](https://github.com/rfbroccoli/java-programming-b19/blob/main/lecture14/guess-the-number/Main.java)
-- [ ] Hangman
-- [ ] Password Generator
+- [x] Hangman
+- [x] Password Generator
 - [ ] Madlibs
 - [ ] Quiz
 - [ ] Blackjack
